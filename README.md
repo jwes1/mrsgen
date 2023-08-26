@@ -1,5 +1,5 @@
 # mrsgen
 
-Generate custom "mrs.exe" decompilers.
+Generate custom encrypted "mrs.exe" decompilers.
 
-Build using Visual Studio .NET 2003
+Build using **Visual Studio .NET 2003**
